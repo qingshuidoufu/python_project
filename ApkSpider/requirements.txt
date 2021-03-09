@@ -1,0 +1,9 @@
+beautifulsoup4==4.9.3
+certifi==2020.11.8
+chardet==3.0.4
+idna==2.10
+requests==2.25.0
+soupsieve==2.0.1
+urllib3==1.26.2
+
+#此页面为python项目需要pip安装的包, 项目部署时必须提前下载好这些包(main.py中已引入这些包)
